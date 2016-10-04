@@ -8,6 +8,7 @@ public class Solution {
 
     //FabrykaPracownikow fabryka =new FabrykaPracownikow();
         Pracownik Adam=FabrykaPracownikow.stworzPracownika("Adam","Kowalski",7);
+        //tttttttttttttttttttttttt
         //Pracownik Tomasz=fabryka.stworzPracownika("Tomasz","Nowak",2);
         System.out.println(Adam.getImie()+" "+Adam.getNazwisko()+" "+ Adam.getStazPracy()+" "+Adam.getInfo());
         //System.out.println(Tomasz.getImie()+" "+Tomasz.getNazwisko()+" "+ Tomasz.getStazPracy()+" "+Tomasz.getInfo());
